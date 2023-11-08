@@ -2,8 +2,10 @@
 
 ### Skills 🔥
 #### Frontend
-![BootStrap](https://img.shields.io/badge/BootStrap-%237952B3?style=for-the-badge&logo=BootStrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![react](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![BootStrap](https://img.shields.io/badge/BootStrap-%237952B3?style=for-the-badge&logo=BootStrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 #### Backend
 ![java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=java&logoColor=blue)
