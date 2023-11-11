@@ -21,7 +21,6 @@
 ![express](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=Express&logoColor=white)
 
 
-### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyun02&show_icons=true&theme=cobalt2)
 
 
